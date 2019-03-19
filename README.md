@@ -1,3 +1,3 @@
 # EnableWindowsAutoCompletion
 
-Help user to enable auto completion in commnad prompt.
+Help user to enable auto-completion in command prompt.
